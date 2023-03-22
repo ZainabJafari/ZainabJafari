@@ -24,7 +24,7 @@ Jag heter Zainab Jafari
 -----------------------------
 
 <h7>Kunskaper:</h7>
-<h6>Javascript</h6>
+<h6>-Javascript</h6>
 <h6>-HTML</h6>
 <h6>-CSS</h6>
 <h6>-SASS</h6>
